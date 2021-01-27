@@ -58,7 +58,7 @@
                 <div class="col-lg-12">
                     <i><h4>SELAMAT DATANG DI KELAS DIET ONLINE <br>  
                     <span class="prime-color">MEMBANTU MENURUNKAN BERAT BADAN ANDA</span></h4>
-                    <H2><span class="color:='blue'"></span>BERGARASI</span></H2></i>
+                    <H2><span class="color:='blue'"></span>BERGARANSI</span></H2></i>
                 </div>
             </div>
         </div>
